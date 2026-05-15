@@ -73,6 +73,6 @@ Some of the comfyUI workflows are modifications of Kijai's workflows which you c
 If you find these notebooks helpful, you can support me [here](https://github.com/sponsors/Isi-dev)
 
 ## Contributing
-PR reviews and merges may be delayed due to current professional and personal engagements. Thanks!
+You can contribute your notebooks to this repository by adding them to the contributions folder and submitting a pull request (PR). Please note that PR reviews and merges may take some time due to current professional and personal commitments. Thank you for your contribution and patience!
 
 
