@@ -67,7 +67,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 ### Qwen-Image
 | Notebooks | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_image_2_1/ComfyUI_Qwen_Image_2_1.ipynb)  | Qwen-Image 2.1 for Generating & Editing Images 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_image_2_1/ComfyUI_Qwen_Image_2_1.ipynb)  | ComfyUI - Qwen-Image 2.1 for Generating & Editing Images 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_Image_Edit_Plus/ComfyUI_Qwen_Image_Edit_2509.ipynb)  | ComfyUI - 1 to 3 Images to 1 Image with Qwen Image Edit 2509
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_Image_with_DiffSynth_Control_LoRA/ComfyUI_Qwen_Image_with_Diffsynth_Control_Union_LoRA.ipynb)  | ComfyUI - Img2Img with Qwen + DiffSynth-Control-LoRA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_Image_with_DiffSynth_Controlnet/ComfyUI_Qwen_Image_with_DiffSynth_ControlNet_Model_Patches.ipynb)  | ComfyUI - Img2Img with Qwen + DiffSynth-ControlNet (Depth, Canny, Inpaint) (Compute units Required)
